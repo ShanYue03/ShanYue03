@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ShanYue03
-- 👀 I’m interested in all kinds of programming and development
-- 🌱 I’m currently learning Java & Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love to sleep
+👋 Hi, I'm Lee Shan Yue, a passionate computer scientist with a love for solving complex problems through code. I specialize in [software development, building website, data analysis & cybersecurity] and enjoy building scalable, efficient, and innovative solutions.
+
+💻 My toolbox includes [Python, Java, C & C++, TensorFlow, Unix & Linux, HTML and CSS], and I’m always exploring new technologies to expand my skill set.
+
+🚀 I thrive in collaborative environments and am passionate about open-source contributions, continuous learning, and sharing knowledge with the community.
+
+🌟 Let’s connect and create something amazing!
 
 <!---
 ShanYue03/ShanYue03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
